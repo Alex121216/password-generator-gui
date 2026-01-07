@@ -19,4 +19,4 @@ A simple password generator with a graphical interface built using Python and Tk
 python Generador_de_contrasena.py
 
 ## Screenshot
-![App Screenshot](password-generator-gui/Captura de pantalla 2026-01-06 203355.png)
+![App Screenshot](Captura%20de%20pantalla%202026-01-06%20203355.png)
