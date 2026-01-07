@@ -17,3 +17,6 @@ A simple password generator with a graphical interface built using Python and Tk
 ## Run the app
 ```bash
 python Generador_de_contrasena.py
+
+## Screenshot
+![App Screenshot](assets/screenshot.png)
